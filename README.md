@@ -1,7 +1,7 @@
 # System Design document & Project Overview: Sentinental
 
 ## 1. Executive Summary
-**Sentinental** is a specialized Authorization Microservice. Its primary purpose is to manage user identities, secure passwords, and control who can access specific parts of a platform using a "Role-Based Access Control" (RBAC) system.
+**Sentinental** is a secure Authorization Microservice built using TypeScript and Express.js. Implemented Role-Based Access Control with Prisma ORM to secure sensitive user data across the platform.
 
 ## 2. Key Features
 *   **Secure Registration**: Validates user data before saving.
