@@ -1,4 +1,4 @@
-# System Design & Project Overview: Sentinental
+# System Design document & Project Overview: Sentinental
 
 ## 1. Executive Summary
 **Sentinental** is a specialized Authorization Microservice. Its primary purpose is to manage user identities, secure passwords, and control who can access specific parts of a platform using a "Role-Based Access Control" (RBAC) system.
